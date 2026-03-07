@@ -1,6 +1,6 @@
 # 🛡️ Proyecto Final: Implementación de Arquitecturas VPN Avanzadas (Cisco IOS)
 
-**Autor:** Matrícula 2024-1252  
+**Autor:** Robinson De Los Santos Santos 2024-1252
 **Materia:** Seguridad Perimetral / Redes  
 **Plataforma de Simulación:** GNS3  
 
