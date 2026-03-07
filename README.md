@@ -1,7 +1,7 @@
 
 
 **Autor:** Robinson De Los Santos Santos 2024-1252
-**Materia:** Seguridad Perimetral / Redes  
+**Materia:** Seguridad de Redes  
 **Plataforma de Simulación:** GNS3  
 
 ---
